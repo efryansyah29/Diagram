@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:21:16.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4RkUTiQEOotXLrUuovpx" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:21:43.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="D00FtG-dm0UontwUGxLd" version="20.0.3" type="github">
   <diagram id="R3Ac5XMkmXZdrqDatB2s" name="Page-1">
     <mxGraphModel dx="2297" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           <mxGeometry x="499" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z6aOLuwqk8kJyiVWFc7x-75" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5" y="280" width="835" height="250" as="geometry" />
+          <mxGeometry x="-36" y="280" width="835" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Z6aOLuwqk8kJyiVWFc7x-10" value="Kelola Akun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6aOLuwqk8kJyiVWFc7x-75">
           <mxGeometry y="61" width="120" height="60" as="geometry" />
@@ -265,20 +265,20 @@
         </mxCell>
         <mxCell id="Z6aOLuwqk8kJyiVWFc7x-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6aOLuwqk8kJyiVWFc7x-15" target="Z6aOLuwqk8kJyiVWFc7x-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="290.1428571428572" as="targetPoint" />
+            <mxPoint x="869" y="290.1428571428572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z6aOLuwqk8kJyiVWFc7x-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z6aOLuwqk8kJyiVWFc7x-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="430" as="targetPoint" />
+            <mxPoint x="679" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="706" y="430" />
-              <mxPoint x="720" y="430" />
+              <mxPoint x="665" y="430" />
+              <mxPoint x="679" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z6aOLuwqk8kJyiVWFc7x-134" value="Logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="809" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
